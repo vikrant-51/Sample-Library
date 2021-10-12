@@ -1,0 +1,91 @@
+body{
+    background:  radial-gradient(
+      circle at 52% 84%,
+      rgba(194, 194, 194, 0.06) 0%,
+      rgba(194, 194, 194, 0.06) 18%,
+      transparent 18%,
+      transparent 100%
+    ),
+    radial-gradient(
+      circle at 38% 97%,
+      rgba(239, 239, 239, 0.06) 0%,
+      rgba(239, 239, 239, 0.06) 20%,
+      transparent 20%,
+      transparent 100%
+    ),
+    radial-gradient(
+      circle at 86% 17%,
+      rgba(210, 210, 210, 0.06) 0%,
+      rgba(210, 210, 210, 0.06) 61%,
+      transparent 61%,
+      transparent 100%
+    ),
+    radial-gradient(
+      circle at 6% 48%,
+      rgba(91, 91, 91, 0.06) 0%,
+      rgba(91, 91, 91, 0.06) 27%,
+      transparent 27%,
+      transparent 100%
+    ),
+    radial-gradient(
+      circle at 27% 63%,
+      rgba(86, 86, 86, 0.06) 0%,
+      rgba(86, 86, 86, 0.06) 30%,
+      transparent 30%,
+      transparent 100%
+    ),
+    radial-gradient(
+      circle at 2% 91%,
+      rgba(182, 182, 182, 0.06) 0%,
+      rgba(182, 182, 182, 0.06) 29%,
+      transparent 29%,
+      transparent 100%
+    ),
+    linear-gradient(90deg, rgb(203, 171, 120), rgb(227, 87, 5));
+}
+.container {
+  margin-top: 50px;
+}
+h1 {
+  text-align: center;
+  font-weight: bold;
+}
+
+#table{
+    background-image: radial-gradient(
+      circle at 68% 88%,
+      hsla(193, 0%, 4%, 0.06) 0%,
+      hsla(193, 0%, 4%, 0.06) 68%,
+      transparent 68%,
+      transparent 100%
+    ),
+    radial-gradient(
+      circle at 64% 21%,
+      hsla(193, 0%, 4%, 0.06) 0%,
+      hsla(193, 0%, 4%, 0.06) 45%,
+      transparent 45%,
+      transparent 100%
+    ),
+    radial-gradient(
+      circle at 18% 4%,
+      hsla(193, 0%, 4%, 0.06) 0%,
+      hsla(193, 0%, 4%, 0.06) 26%,
+      transparent 26%,
+      transparent 100%
+    ),
+    radial-gradient(
+      circle at 17% 69%,
+      hsla(193, 0%, 4%, 0.06) 0%,
+      hsla(193, 0%, 4%, 0.06) 15%,
+      transparent 15%,
+      transparent 100%
+    ),
+    radial-gradient(
+      circle at 84% 26%,
+      hsla(193, 0%, 4%, 0.06) 0%,
+      hsla(193, 0%, 4%, 0.06) 45%,
+      transparent 45%,
+      transparent 100%
+    ),
+    linear-gradient(45deg, rgb(181, 73, 30), rgb(187, 114, 141));
+}
